@@ -51,6 +51,9 @@
      <Compile Include="Assets\2D Assets Pack\Scripts\GameSetup.js" />
      <Compile Include="Assets\2D Assets Pack\Scripts\PlayerControls.js" />
      <Compile Include="Assets\2D Assets Pack\Scripts\SideWalls.js" />
+     <Compile Include="Assets\Scripts\Score.js" />
+     <Compile Include="Assets\Scripts\destroyBodyPart.js" />
+     <Compile Include="Assets\Scripts\icicleController.js" />
      <Compile Include="Assets\Scripts\randomSpawn.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

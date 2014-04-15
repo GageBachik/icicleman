@@ -2,7 +2,7 @@
 
 var timer : float = 0.0;
 var spawning : boolean = false;
-var prefab : Rigidbody;
+var prefab : Rigidbody2D;
 var spawn1 : Transform;
 var spawn2 : Transform;
 var spawn3 : Transform;
@@ -45,7 +45,7 @@ function Spawn(){
  }
  
  //create the object at point of the location variable
- var thingToMake : Rigidbody = Instantiate(prefab, location.position, location.rotation);
+ var thingToMake : Rigidbody2D = Instantiate(prefab, location.position, location.rotation);
   thingToMake.AddForce(Vector3(0,0,100));
  
  //halt script for 1 second before returning to the start of the process
