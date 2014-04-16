@@ -1,11 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/2D Assets Pack/Scripts/GameSetup.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/icicleController.js">
     <Files>
-      <File FileName="Assets/Scripts/Score.js" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/Score.js" Line="10" Column="21" />
       <File FileName="Assets/Scripts/randomSpawn.js" Line="48" Column="1" />
       <File FileName="Assets/2D Assets Pack/Scripts/GameSetup.js" Line="19" Column="100" />
-      <File FileName="Assets/Scripts/icicleController.js" Line="14" Column="29" />
+      <File FileName="Assets/Scripts/icicleController.js" Line="13" Column="29" />
+      <File FileName="Assets/Scripts/destroyBodyPart.js" Line="12" Column="7" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
